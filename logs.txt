@@ -1,0 +1,28 @@
+<<2021-04-09 20:44:45.692250>> Server is starting.
+<<2021-04-09 20:45:07.165609>> Listening to the port (9090)
+<<2021-04-09 20:45:16.456082>> Connected to ('127.0.0.1', 4082)
+<<2021-04-09 20:45:22.080091>> Accepting data: Hi
+<<2021-04-09 20:45:22.127038>> Sending data: Hi!!!
+<<2021-04-09 20:45:28.481965>> Accepting data: Oleg
+<<2021-04-09 20:45:28.482986>> Sending data: Oleg!!!
+<<2021-04-09 20:45:30.840657>> Accepting data: lol
+<<2021-04-09 20:45:30.841898>> Sending data: lol!!!
+<<2021-04-09 20:45:37.834875>> Client disconnected.
+<<2021-04-09 20:45:37.836870>> Closing connection.
+<<2021-04-09 20:47:59.351055>> Server is starting.
+<<2021-04-09 20:48:15.115854>> Listening to the port (9090)
+<<2021-04-09 20:48:19.511342>> Connected to ('127.0.0.1', 4097)
+<<2021-04-09 20:48:22.184068>> Accepting data: Oleg
+<<2021-04-09 20:48:22.185033>> Sending data: Oleg!!!
+<<2021-04-09 20:48:24.780906>> Accepting data: hi
+<<2021-04-09 20:48:24.782907>> Sending data: hi!!!
+<<2021-04-09 20:48:28.307254>> Accepting data: KK
+<<2021-04-09 20:48:28.308278>> Sending data: KK!!!
+<<2021-04-09 20:48:30.518983>> Accepting data: 4
+<<2021-04-09 20:48:30.519980>> Sending data: 4!!!
+<<2021-04-09 20:48:34.474390>> Client disconnected.
+<<2021-04-09 20:48:34.475383>> Listening to the port (9090)
+<<2021-04-09 20:48:53.297714>> Connected to ('127.0.0.1', 4098)
+<<2021-04-09 20:49:02.140068>> Accepting data: ol
+<<2021-04-09 20:49:02.141065>> Sending data: ol!!!
+<<2021-04-09 20:49:07.173767>> Closing connection.
