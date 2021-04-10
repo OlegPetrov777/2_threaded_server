@@ -105,3 +105,5 @@ def main():
 	print('Closing server.')
 	save_log('Closing server.')
 	sock.close()
+
+main()
